@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  background-color: rgb(211, 200, 186);
+}
+h1{
+  color: rgb(109, 0, 0);
+  padding: 30px 0px;
+  text-align: center;
+  border: 2px solid rgb(109, 0, 0);
+}
+div{
+  display: inline-block;
+  width: 48%;
+  padding: 10px 5px;
+}
+.img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+footer{
+  padding: 30px;
+  border: 2px solid rgb(109, 0, 0);
+}
+
